@@ -1,3 +1,4 @@
+<br>
 <img src="https://github.com/metrikube/app/blob/develop/apps/app/web/src/assets/img/metrikube-logo.png" align="left" width="200px"/>
 
 <h1>MetriKube</h3>
